@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhesh-yadav&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=avadhesh-yadav&icon=0&color=6)](https://visitcount.itsvg.in)
