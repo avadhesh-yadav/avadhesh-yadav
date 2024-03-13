@@ -10,7 +10,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avadhesh-yadav&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avadhesh-yadav&theme=dark&hide_border=true&include_all_commits=true&countprivate=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avadhesh-yadav&theme=dark&hide_border=true)
 
