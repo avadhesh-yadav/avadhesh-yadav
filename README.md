@@ -2,7 +2,7 @@
 👋 Hello there! I'm Avadhesh Yadav, a passionate frontend developer with a flair for innovation and problem-solving. With a BTech in Computer Science and four months of hands-on experience in Salesforce administration, I bring a unique blend of skills to the table.<br><br>🛠️ Proficient in HTML, CSS, JavaScript, and React, I thrive on transforming creative ideas into sleek, user-friendly interfaces. Whether it's crafting responsive layouts or optimizing performance, I'm committed to delivering top-notch solutions that exceed expectations.<br><br>💡 Passionate about innovation and problem-solving, I thrive on tackling challenges head-on and finding innovative solutions that push the boundaries of what's possible.<br><br>💪 When I'm not crafting code, you'll often find me pumping iron at the gym, indulging my passion for weightlifting and maintaining a healthy work-life balance.<br><br>🚀 My ultimate goal? To join a dynamic organization as a frontend developer, where I can collaborate with a talented team to create exceptional digital experiences that make a meaningful impact.<br><br>Let's connect and explore how we can work together to bring your projects to life!<br><br>
 
 
-## 🌐 Socials:
+## 🌐 Let's Connect on:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/avds_ydv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhesh-yadav-8143a9245/) 
 
 ## 💻 Tech Stack:
