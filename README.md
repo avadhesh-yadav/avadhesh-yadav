@@ -10,11 +10,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avadhesh-yadav&theme=dark&hide_border=true&include_all_commits=true&countprivate=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avadhesh-yadav&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avadhesh-yadav&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhesh-yadav&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhesh-yadav&theme=dark&hide_border=true&layout=compact&langs_count=8)
+
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 350px;"/>
