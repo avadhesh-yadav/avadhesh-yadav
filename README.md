@@ -12,7 +12,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avadhesh-yadav&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=avadhesh-yadav&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=avadhesh-yadav&theme=dark&hide)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=avadhesh-yadav&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
